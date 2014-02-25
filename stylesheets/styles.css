@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #picture {
-clip:rect(0px,60px,200px,0px);
+clip:rect(0px,60px,200px,500px);
 }
 
 p, ul, ol, table, pre, dl {
