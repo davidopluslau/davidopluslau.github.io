@@ -4,9 +4,9 @@ body {
   padding:50px;
   font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:575;
-  /*
   background-image:url('https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/t31/1149592_10201321995068500_1811551748_o.jpg')
-  */
+  background-repeat:no-repeat;
+  background-attachment:fixed;
 }
 
 h1, h2, h3, h4, h5, h6, h7 {
@@ -65,6 +65,10 @@ a small {
 .wrapper {
   width:860px;
   margin:0 auto;
+}
+
+.whiteback {
+  background-color:#000000;
 }
 
 blockquote {
